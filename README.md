@@ -7,3 +7,5 @@ Predict which passengers are transported to an alternate dimension
 ## Evaluation
 Submissions are evaluated based on their classification accuracy, the percentage of predicted labels that are correct.
 
+[Link to Kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic/overview)
+
